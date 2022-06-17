@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5bd84d13.css",
-    "main.js": "/static/js/main.20fca4f4.js",
+    "main.js": "/static/js/main.5ce395f2.js",
     "static/media/slide2.jpg": "/static/media/slide2.10eb7da1136437a4e55e.jpg",
     "static/media/payment.svg": "/static/media/payment.69e7ec34d1302e6b58b2cb1abe6b2f9c.svg",
     "static/media/30-army-cargo-3.jpeg": "/static/media/30-army-cargo-3.e4562a247a470e35a553.jpeg",
@@ -25,10 +25,10 @@
     "static/media/star.svg": "/static/media/star.b16c041aff85c2eec6fd40c059d5e76c.svg",
     "index.html": "/index.html",
     "main.5bd84d13.css.map": "/static/css/main.5bd84d13.css.map",
-    "main.20fca4f4.js.map": "/static/js/main.20fca4f4.js.map"
+    "main.5ce395f2.js.map": "/static/js/main.5ce395f2.js.map"
   },
   "entrypoints": [
     "static/css/main.5bd84d13.css",
-    "static/js/main.20fca4f4.js"
+    "static/js/main.5ce395f2.js"
   ]
 }
