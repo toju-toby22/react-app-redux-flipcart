@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bd84d13.css",
+    "main.js": "/static/js/main.20fca4f4.js",
+    "static/media/slide2.jpg": "/static/media/slide2.10eb7da1136437a4e55e.jpg",
+    "static/media/payment.svg": "/static/media/payment.69e7ec34d1302e6b58b2cb1abe6b2f9c.svg",
+    "static/media/30-army-cargo-3.jpeg": "/static/media/30-army-cargo-3.e4562a247a470e35a553.jpeg",
+    "static/media/2.png": "/static/media/2.b5d9020eb7977e000537.png",
+    "static/media/7.png": "/static/media/7.840c8fc52d39476eaea1.png",
+    "static/media/slide1.jpeg": "/static/media/slide1.f74ba2168aa3ad998a87.jpeg",
+    "static/media/4.png": "/static/media/4.4c6a7a3969d6c79da7e9.png",
+    "static/media/8.png": "/static/media/8.edbc6228fc4733ede07d.png",
+    "static/media/5.png": "/static/media/5.10704dd63d0489651576.png",
+    "static/media/slide3.jpg": "/static/media/slide3.c8e2be8146bfcaec5a21.jpg",
+    "static/media/1.png": "/static/media/1.3242620fed85f8c93524.png",
+    "static/media/clayboy.jpeg": "/static/media/clayboy.31814b3c8214447f3750.jpeg",
+    "static/media/3.png": "/static/media/3.dcddf236868e8083c06c.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Gift.svg": "/static/media/Gift.ff0a9c327ab18b822f502f4d4dbe2f92.svg",
+    "static/media/Help.svg": "/static/media/Help.f34ab6e886288ea6b849d4538d5b199e.svg",
+    "static/media/bag.svg": "/static/media/bag.6edb86db108485f9e5086fc68df78c7e.svg",
+    "static/media/star.svg": "/static/media/star.b16c041aff85c2eec6fd40c059d5e76c.svg",
+    "index.html": "/index.html",
+    "main.5bd84d13.css.map": "/static/css/main.5bd84d13.css.map",
+    "main.20fca4f4.js.map": "/static/js/main.20fca4f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd84d13.css",
+    "static/js/main.20fca4f4.js"
+  ]
+}
