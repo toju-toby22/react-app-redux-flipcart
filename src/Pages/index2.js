@@ -32,27 +32,27 @@ function Index() {
                         <div className="paddi">
                               <Link className="pic-link" to="/Product-list">
                               <div className="pic"> 
-                                    <img className="first-pic" src={Top}/>
+                                    <img className="first-pic" src={Top} alt=""/>
                                     <p>Top Offers
-                               <img className="down-img" src={Down} alt="src"/>    
+                               <img className="down-img" src={Down} alt=""/>    
                                           </p>                                 
                               </div>
                               </Link>
 
                               <Link className="pic-link" to="/">
                               <div className="pic"> 
-                                    <img className="first-pic" src={first2} alt="picture"/>
+                                    <img className="first-pic" src={first2} alt=""/>
                                     <p>Top Offers
-                               <img className="down-img" src={Down} alt="src"/>    
+                               <img className="down-img" src={Down} alt=""/>    
                                            </p>                                 
                               </div>
                               </Link>
 
                               <Link className="pic-link" to="/">
                               <div className="pic"> 
-                                    <img className="first-pic" src={first3} alt="picture"/>
+                                    <img className="first-pic" src={first3} alt=""/>
                                     <p>Top Offers
-                               <img className="down-img" src={Down} alt="src"/>    
+                               <img className="down-img" src={Down} alt=""/>    
                                           </p>                                 
                               </div>
                               </Link>
@@ -60,9 +60,9 @@ function Index() {
 
                               <Link className="pic-link" to="/">
                               <div className="pic"> 
-                                    <img className="first-pic" src={first4} alt="picture"/>
+                                    <img className="first-pic" src={first4} alt=""/>
                                     <p>Top Offers
-                               <img className="down-img" src={Down} alt="src"/>    
+                               <img className="down-img" src={Down} alt=""/>    
                                           </p>                                 
                               </div>
                               </Link>
@@ -70,20 +70,9 @@ function Index() {
 
                               <Link className="pic-link" to="/">
                               <div className="pic"> 
-                                    <img className="first-pic" src={first5} alt="picture"/>
+                                    <img className="first-pic" src={first5} alt=""/>
                                     <p>Top Offers
-                               <img className="down-img" src={Down} alt="src"/>    
-                                          </p>                                 
-                              </div>
-                              </Link>
-
-
-
-                              <Link className="pic-link" to="/">
-                              <div className="pic"> 
-                                    <img className="first-pic" src={first6} alt="picture"/>
-                                    <p>Top Offers
-                               <img className="down-img" src={Down} alt="src"/>    
+                               <img className="down-img" src={Down} alt=""/>    
                                           </p>                                 
                               </div>
                               </Link>
@@ -92,18 +81,29 @@ function Index() {
 
                               <Link className="pic-link" to="/">
                               <div className="pic"> 
-                                    <img className="first-pic" src={first7} alt="picture"/>
+                                    <img className="first-pic" src={first6} alt=""/>
                                     <p>Top Offers
-                               <img className="down-img" src={Down} alt="src"/>    
+                               <img className="down-img" src={Down} alt=""/>    
+                                          </p>                                 
+                              </div>
+                              </Link>
+
+
+
+                              <Link className="pic-link" to="/">
+                              <div className="pic"> 
+                                    <img className="first-pic" src={first7} alt=""/>
+                                    <p>Top Offers
+                               <img className="down-img" src={Down} alt=""/>    
                                           </p>                                 
                               </div>
                               </Link>
 
                               <Link className="pic-link" to="/">
                               <div className="pic"> 
-                                    <img className="first-pic" src={first8} alt="picture"/>
+                                    <img className="first-pic" src={first8} alt=""/>
                                     <p>Top Offers
-                               <img className="down-img" src={Down} alt="src"/>    
+                               <img className="down-img" src={Down} alt=""/>    
                                           </p>                                 
                               </div>
                               </Link>
@@ -111,9 +111,9 @@ function Index() {
 
                               <Link className="pic-link" to="/">
                               <div className="pic"> 
-                                    <img className="first-pic" src={first9} alt="picture"/>
+                                    <img className="first-pic" src={first9} alt=""/>
                                     <p>Top Offers
-                               <img className="down-img" src={Down} alt="src"/>    
+                               <img className="down-img" src={Down} alt=""/>    
                                           </p>                                 
                               </div>
                               </Link>

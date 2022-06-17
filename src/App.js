@@ -1,5 +1,5 @@
 import './App.css'
-import Index from "./Pages/index.js"
+import Index from "./Pages/index2.js"
 import Login from "./Pages/Login.js"
 import Product from "./Pages/Product.js"
 import List from "./Pages/Product-list.js"
