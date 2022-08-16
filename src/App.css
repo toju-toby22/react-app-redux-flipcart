@@ -675,9 +675,9 @@ body{
     color: white;
     text-decoration: none;
 }
-.explore22 :hover{
-    /* text-decoration: rgb(226, 226, 226); */
-}
+/* .explore22 :hover{
+    text-decoration: rgb(226, 226, 226);
+} */
 .plus{
     height: 10px;
 }
@@ -1040,12 +1040,7 @@ body{
     text-decoration: none;
     color: black;
 }
-.pic-list{
-    /* display: flex; */
-    /* align-items: center;
-    justify-content: space-between; */
-    /* align-items: center; */
-}
+
 .first-pic{
     height: 80px;
 }

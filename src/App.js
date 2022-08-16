@@ -19,7 +19,7 @@ import { BrowserRouter,Routes,Route } from 'react-router-dom'
                                <Route element ={<Index/>} path ="/"/>
                                <Route element ={<Login/>} path ="Login"/>
                                <Route element ={<Product/>} path ="Product"/>
-                               <Route element ={<List/>} path ="Product-list"/>               
+                               <Route element ={<List/>} path ="Product-list"/>                             
                                <Route element ={<Sign/>} path ="Signup"/>               
                           </Routes>
                      </BrowserRouter>
